@@ -1,5 +1,5 @@
 # pcapfex-v1.1
-# Migration to Python 3
+# Migration to Python 3 (Not yet tested)
 '**P**acket **CAP**ture **F**orensic **E**vidence e**X**tractor' is a tool 
 that finds and extracts files from packet capture files.
 
@@ -17,7 +17,7 @@ _pcapfex_ was developed and tested for **Linux environments only**.
 Due to missing optimizations and tests, there is no guarantee for it to work
 under Windows (though it should work).
 
-_pcapfex_ depends on **Python 2.7** and the **_dpkt_** package. You can install 
+_pcapfex_ depends on **Python 3.x** and the **_dpkt_** package. You can install 
 it via
 ```
 sudo pip install dpkt
