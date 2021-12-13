@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # -*- coding: utf8 -*-
 __author__ = 'developed by Viktor Winkelmann & migrated to python 3 by Christoph Linke'
 
